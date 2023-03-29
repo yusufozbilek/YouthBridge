@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005917802018",
+    "project_id": "youthbridge-b7401",
+    "storage_bucket": "youthbridge-b7401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005917802018:android:a5bc0294bbbd8300a7847b",
+        "android_client_info": {
+          "package_name": "com.ozbilek.youthbridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005917802018-rpig83b4vcubnatii9517g7tk2e4f55t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLIN58OGEZLXhOZ91hGkozTXyp6XgOHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005917802018-rpig83b4vcubnatii9517g7tk2e4f55t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
