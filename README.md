@@ -5,7 +5,7 @@ Our application is developed in line with the United Nations' Sustainable Develo
 
 
 ## Installing with apk/aab
-Download the apk/aab file and just install with your package installer.
+Download the apk/aab file from Installers folder and just install with your package installer.
 ## Installing with gradle
 Open project in Android Studio and build with gradle. After that you can run project with android emulator.
 
